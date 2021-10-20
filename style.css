@@ -20,18 +20,24 @@ img{
 
 a{
     text-align:center;
-    font-size:30px;
-}
-
-#body_text{
     font-size:20px;
 }
 
-ul {
+#body_text{
+    font-size:15px;
+}
+
+#body_list {
     border-left: 5px solid rgb(177, 177, 177);
     background-color: #f1f1f1;
     list-style-type: none;
 }
 li{
-    font-size:20px; 
+    font-size:15px; 
+}
+h3{
+    text-decoration:underline;
+}
+a:hover{
+    text-decoration:none;
 }
