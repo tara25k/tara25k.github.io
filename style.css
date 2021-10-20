@@ -8,3 +8,30 @@ body{
     background-color:rgb(177, 177, 177);
     color:white;
 }
+
+.image{
+    text-align:center;
+}
+
+img{
+    height:271.5px;
+    width:400px;
+}
+
+a{
+    text-align:center;
+    font-size:30px;
+}
+
+#body_text{
+    font-size:20px;
+}
+
+ul {
+    border-left: 5px solid rgb(177, 177, 177);
+    background-color: #f1f1f1;
+    list-style-type: none;
+}
+li{
+    font-size:20px; 
+}
